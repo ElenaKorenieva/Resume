@@ -1,2 +1,1 @@
-# Resume
-CV
+https://elenakorenieva.github.io/Resume/index.html
